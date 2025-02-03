@@ -86,7 +86,7 @@
     "age": 5.0,
     "isActive": false,
     "discoveryDate": "2010-04-18",
-    "imageUrl": "https://raw.githubusercontent.com/JarnoB1998/planets.json/refs/heads/main/shadow-haven.webp",
+    "imageUrl": "https://raw.githubusercontent.com/JarnoB1998/planets.json/refs/heads/main/abyssus.webp",
     "type": "Rogue Planet",
     "moons": [],
     "galaxy": {
